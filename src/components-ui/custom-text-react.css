@@ -1,0 +1,17 @@
+main table tr, main table td, main table th {
+  border: 1px solid silver;
+  border-collapse: collapse;
+}
+
+main table td {
+  padding: .2em;
+}
+
+main table th {
+  text-align: left;
+  padding: .2em;
+}
+
+main table {
+  border-collapse: collapse;
+}
